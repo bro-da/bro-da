@@ -13,16 +13,11 @@ I am the great mad scientist, Hououin Kyouma! A being that transcends even God h
 - Languages: JavaScript, Python, shell
 - Frameworks / Tools: Docker, Kubernetes, Linux, git, Terraform etc
 
-
 ## Interests & Hobbies
 - Bike riding, Anime, sitting infront of a computer; the usual 
 
 ## Contact
 - Email: guest@bro-da.org
-
----
-Thanks for stopping by 👋 — feel free to connect!
-
 
 <p align="center">
   <img src="images/matrix-always-online.gif" alt="Matrix GIF" width="600" />
