@@ -6,7 +6,6 @@ I am the great mad scientist, Hououin Kyouma! A being that transcends even God h
 - 🔭 I’m currently working as: Site Reliability Engineer
 - 🌱 I’m learning: Anything I get my hands On
 - 💬 Ask me about: Terraform, Cloud, Homelab, Linux, Containers
-- 📫 How to reach me: bro-da.org
 - ⚡ Fun fact: I have the IQ of a Goldfish and the curiosity of a Cat
 
 ## Skills
