@@ -17,7 +17,7 @@ I am the great mad scientist, Hououin Kyouma! A being that transcends even God h
 - Bike riding, Anime, sitting infront of a computer; the usual 
 
 ## Contact
-- Email: guest@bro-da.org
+- [📧 Email](mailto:guest@bro-da.org)
 
 <p align="center">
   <img src="images/matrix-always-online.gif" alt="Matrix GIF" width="600" />
