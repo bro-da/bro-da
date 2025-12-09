@@ -1,6 +1,12 @@
-# Hi, I'm bro-da 👋
 
-I am the great mad scientist, Hououin Kyouma! A being that transcends even God himself! – Rintarou Okabe
+
+<p align="center">
+    # Hi, I'm bro-da 👋
+  <img src="images/matrix-always-online.gif" alt="Matrix GIF" width="500"  height="600" />
+  I am the great mad scientist, Hououin Kyouma! A being that transcends even God himself! – Rintarou Okabe
+</p>
+
+
 
 ## About Me
 - 🔭 I’m currently working as: Site Reliability Engineer
@@ -17,7 +23,3 @@ I am the great mad scientist, Hououin Kyouma! A being that transcends even God h
 
 ## Contact
 - [📧 Email](mailto:guest@bro-da.org)
-
-<p align="center">
-  <img src="images/matrix-always-online.gif" alt="Matrix GIF" width="600" />
-</p>
