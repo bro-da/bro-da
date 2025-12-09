@@ -1,9 +1,15 @@
-
-
 <p align="center">
-    # Hi, I'm bro-da 👋
+    
   <img src="images/matrix-always-online.gif" alt="Matrix GIF" width="500"  height="600" />
-  I am the great mad scientist, Hououin Kyouma! A being that transcends even God himself! – Rintarou Okabe
+
+  
+  # Hi, I'm bro-da 👋
+  
+ <blockquote>
+   <p>"I am the great mad scientist, Hououin Kyouma! A being that transcends even God himself!"</p>
+   <footer>— <cite>Rintarou Okabe</cite></footer>
+ </blockquote>
+
 </p>
 
 
