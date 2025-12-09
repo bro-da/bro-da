@@ -23,6 +23,7 @@ I am the great mad scientist, Hououin Kyouma! A being that transcends even God h
 ---
 Thanks for stopping by 👋 — feel free to connect!
 
+
 <p align="center">
-  <img src="matrix-always-online.gif" alt="Short description" width="600" />
+  <img src="images/matrix-always-online.gif" alt="Matrix GIF" width="600" />
 </p>
